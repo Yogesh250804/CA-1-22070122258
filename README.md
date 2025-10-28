@@ -1,4 +1,4 @@
-# CA-1-22070122258
+# DevOps CA-1 - 22070122258
 # 🧠 Binary Classification with a Bank Dataset
 ### Kaggle Playground Series – Season 5, Episode 8
 
